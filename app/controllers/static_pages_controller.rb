@@ -14,4 +14,7 @@ class StaticPagesController < ApplicationController
   def root
     root_url =  "root 'static_pages#home'"
   end
+
+  # def aaa
+  # end
 end
